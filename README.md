@@ -1,4 +1,5 @@
 # Mise PLACDE DE L'ENVIRONNEMENT 
+```yaml
 version: '3.8'
 services:
   db:
