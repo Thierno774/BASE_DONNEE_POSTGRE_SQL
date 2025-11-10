@@ -37,12 +37,12 @@ networks:
 
 ![Sparkify Data Model](/images/schemal_Model_des_donnees.png)   
 
-# 2.CRÉATION ET CONNECTION À LA BASE DE DONNÉE 
+# 3.CRÉATION ET CONNECTION À LA BASE DE DONNÉE 
 ![Sparkify Data Model](/images/connection_a_la_base_donnee.png)   
 
 
 
-# 3. CRÉATION DES TABLES 
+# 4. CRÉATION DES TABLES 
 
 ```sql
 
