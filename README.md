@@ -37,6 +37,11 @@ networks:
 
 ![Sparkify Data Model](/images/schemal_Model_des_donnees.png)   
 
+# 2.CRÉATION ET CONNECTION À LA BASE DE DONNÉE 
+![Sparkify Data Model](/images/connection_a_la_base_donnee.png)   
+
+
+
 # 3. CRÉATION DES TABLES 
 
 ```sql
@@ -84,7 +89,7 @@ INSERT INTO employes (nom, prenom, email, telephone, salaire, date_embauche, pos
 ('Moreau', 'Luc', 'luc.moreau@entreprise.com', '01 67 89 01 23', 48000.00, '2020-08-22', 'Responsable Marketing', 3),
 ('Petit', 'Isabelle', 'isabelle.petit@entreprise.com', '01 78 90 12 34', 42000.00, '2021-09-05', 'Analyste Financier', 4);
 ```
-# 4. INTEROGATION DE LA BASE DE DONNÉES
+# 5. INTEROGATION DE LA BASE DE DONNÉES
 ## LES EMPLOYÉS DONT LE SALAIRE EST SUPÉRIEURE AU SALAIRE MOYEN 
 ```sql
 -- LES EMPLOYÉS DONT LE SALAIRE EST SUPÉRIEUR AU SALAIRE MOYENNE 
