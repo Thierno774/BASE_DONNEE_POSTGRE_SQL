@@ -1,4 +1,4 @@
-# Mise EN PLACE DE L'ENVIRONNEMENT 
+# MISE EN PLACE DE L'ENVIRONNEMENT 
 ```yaml
 version: '3.8'
 services:
