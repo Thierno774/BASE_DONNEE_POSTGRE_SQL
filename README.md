@@ -1,1 +1,22 @@
-# BASE_DONNEE_POSTGRE_SQL
+# Mise PLACDE DE L'ENVIRONNEMENT 
+version: '3.8'
+services:
+  db:
+    container_name: pg_container
+    image: postgres:16-alpine
+    restart: always
+    environment:
+      POSTGRES_USER: Thierno
+      POSTGRES_PASSWORD: Thierno232
+      POSTGRES_DB: dst_db
+    ports:
+      - "5432:5432"
+  pgadmin:
+    container_name: pgadmin4_container
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: thiernosidybah232@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: data_engineer 
+    ports:
+      - "5050:80"
