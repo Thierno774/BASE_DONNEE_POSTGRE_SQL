@@ -32,4 +32,8 @@ services:
 networks:
   db_network:
     driver: bride
+```
+2 . COMPRENDRE L'ENVIRONNEMENT DE TRAVAIL 
+
+![Sparkify Data Model](/images/Model_de_travail.png)    
 
