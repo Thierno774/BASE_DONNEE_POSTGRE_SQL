@@ -83,16 +83,3 @@ INSERT INTO employes (nom, prenom, email, telephone, salaire, date_embauche, pos
 ('Dubois', 'Sophie', 'sophie.dubois@entreprise.com', '01 56 78 90 12', 35000.00, '2022-01-30', 'Chargée de Recrutement', 2),
 ('Moreau', 'Luc', 'luc.moreau@entreprise.com', '01 67 89 01 23', 48000.00, '2020-08-22', 'Responsable Marketing', 3),
 ('Petit', 'Isabelle', 'isabelle.petit@entreprise.com', '01 78 90 12 34', 42000.00, '2021-09-05', 'Analyste Financier', 4);
-
-
-
-
-
-
-
-
-
-
-
-
-
