@@ -136,3 +136,6 @@ WHERE E.DEPARTEMENT_ID IS NULL
 ```
 ## LES DÉPARTEMENTS DONT LE NOMBRE D'EMPLOYÉS EST SUPÉRIEUR À LA MOYENNE GÉNÉRALE 
 ![Sparkify Data Model](/images/requetes_moyennes_employes.png)   
+### ON PEUT REPONDRE À CETTE QUESTION EN UTILISANT LES CTE, C'EST PLUS LISIBLE QUE LES REQUÊTES IMBRIQUÉES 
+![Sparkify Data Model](/images/requetes_cte.png)   
+
