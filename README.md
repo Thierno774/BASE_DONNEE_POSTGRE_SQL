@@ -35,7 +35,7 @@ networks:
 ```
 # 2. COMPRENDRE L'ENVIRONNEMENT DE TRAVAIL 
 
-![Sparkify Data Model](/images/schemal_Model_des_donnees.png)   
+![Sparkify Data Model](/images/environnement_de_travail.png)   
 
 # 3.CRÉATION ET CONNECTION À LA BASE DE DONNÉE 
 ![Sparkify Data Model](/images/connection_a_la_base_donnee.png)   
